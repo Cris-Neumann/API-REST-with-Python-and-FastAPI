@@ -13,7 +13,7 @@ Este proyecto de API (Application Programming Interface) fue construido con el f
 El esquema general del modo en que se relacionan las partes del sistema es el siguiente:
 <br/><br/>
 
-![model](https://github.com/Cris-Neumann/Codigo_abierto/assets/99703152/62a784f9-3e61-47f5-be73-75bd3a28d6b2)
+![python_and_fastapi](https://github.com/Cris-Neumann/API-REST-with-Python-and-FastAPI/assets/99703152/758fa262-fe29-4f52-9bfd-8e32a163ea7f)
 
 ## Instalaciones adicionales
 Adicional a las librerías detallas en archivo requirements.txt, es necesario instalar el conector ODBC (Open Database Connectivity) para SQL Server: ODBC Driver 18: https://acortar.link/lsyUnp.
